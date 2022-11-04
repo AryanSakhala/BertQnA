@@ -5,3 +5,4 @@ numpy
 flask
 joblib==0.16.0
 urllib3==1.25.10
+gunicorn
